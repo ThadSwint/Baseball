@@ -1,0 +1,14 @@
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\Baseball.mdf
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\Baseball_log.ldf
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\EntityFramework.dll
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\EntityFramework.xml
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thad\source\repos\Baseball\Baseball\obj\Debug\Baseball.csproj.CoreCompileInputs.cache
+C:\Users\Thad\source\repos\Baseball\Baseball\obj\Debug\Baseball.csproj.CopyComplete
+C:\Users\Thad\source\repos\Baseball\Baseball\obj\Debug\Baseball.dll
+C:\Users\Thad\source\repos\Baseball\Baseball\obj\Debug\Baseball.pdb
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\Baseball.dll.config
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\Baseball.dll
+C:\Users\Thad\source\repos\Baseball\Baseball\bin\Debug\Baseball.pdb
+C:\Users\Thad\source\repos\Baseball\Baseball\obj\Debug\Baseball.csprojAssemblyReference.cache
